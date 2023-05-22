@@ -1,1 +1,4 @@
-console.log("Hello World!")
+var input = prompt("Please enter an input")
+
+
+console.log(input)
